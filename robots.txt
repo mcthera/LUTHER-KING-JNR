@@ -1,0 +1,7 @@
+# robots.txt for Kwame Luther King Junior website
+# Allow all crawlers to index the entire site.
+User-agent: *
+Allow: /
+
+# Sitemap location. Update the domain below if your site is published under a custom domain.
+Sitemap: /sitemap.xml
